@@ -2,6 +2,18 @@
 
 All notable changes to the "Filament Authentication Log" will be documented in this file.
 
+## v5.0.2 - 2026-01-19
+
+### What's Changed
+
+* Add support to Filament 5 by @marcogermani87 in https://github.com/TappNetwork/filament-authentication-log/pull/41
+
+### New Contributors
+
+* @marcogermani87 made their first contribution in https://github.com/TappNetwork/filament-authentication-log/pull/41
+
+**Full Changelog**: https://github.com/TappNetwork/filament-authentication-log/compare/v5.0.1...v5.0.2
+
 ## v5.0.1 - 2025-09-01
 
 ### What's Changed

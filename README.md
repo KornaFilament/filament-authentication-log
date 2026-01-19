@@ -23,7 +23,7 @@ Follow the configuration instructions for [laravel-authentication-log](https://r
  2.x      | 9.x/10.x  | 3.x                          | 2.x
  3.x      | 10.x/11.x | 4.x                          | 3.0.x/3.1.x
  3.x      | 12.x      | 5.x                          | 4.x
- 4.x      | 12.x      | 5.x                          | 5.x
+ 4.x/5.x  | 12.x      | 5.x                          | 5.x
 
 ## Installation
 
